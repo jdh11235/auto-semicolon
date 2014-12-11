@@ -1,0 +1,13 @@
+{
+	"name": "jdh11235.auto-semicolon",
+	"title": "Auto Semicolon",
+	"description": "Helps ease the annoyance of semicolons",
+	"homepage": "https://github.com/jdh11235/auto-semicolon",
+	"version": "1.0.0",
+	"author": "Jonathan Herman <jdh11235@gmail.com> (http://jdh11235.github.io)",
+	"license": "MIT",
+	"engines": {
+		"brackets": ">=1.0.0"
+		}
+	}
+}
